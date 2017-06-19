@@ -3,6 +3,7 @@ C:\Projects\WoW\Bin\Interface\FrameXML\UI.xsd">
 	<Script file="localization.lua"/>
 	<Script file="localization.ge.lua"/>
 	<Script file="localization.fr.lua"/>
+	<Script file="localization.ru.lua"/>
 	<Script file="CT_PlayerNotes.lua"/>
 	<Button name="CT_PlayerNotesTemplate" virtual="true" hidden="false">
 		<Size>
